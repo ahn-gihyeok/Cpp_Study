@@ -19,7 +19,7 @@ ch02_2 데이터 형식
 
 ch02_3 변수의 유효 범위와 형식 변환
 
-ch02_3 키워드와 리터럴
+ch02_4 키워드와 리터럴
 
 ---
 
@@ -39,6 +39,9 @@ ch02_3 키워드와 리터럴
 | ch02_3 | [ch02_3_variables_global_vs_local.cpp](ch02/ch02_3/ch02_3_variables_global_vs_local/ch02_3_variables_global_vs_local.cpp) | 전역 변수, 지역 변수 구분하여 접근하기 |
 | ch02_3 | [ch02_3_implicit_cast.cpp](ch02/ch02_3/ch02_3_implicit_cast/ch02_3_implicit_cast.cpp) | 암시적 형 변환 |
 | ch02_3 | [ch02_3_explicit_cast.cpp](ch02/ch02_3/ch02_3_explicit_cast/ch02_3_explicit_cast.cpp) | 암시적 형 변환과 명시적 형 변환 비교 |
+| ch02_4 | [ch02_4_std_string.cpp](ch02/ch02_4/ch02_4_std_string/ch02_4_std_string.cpp) | string으로 문자열 사용하기 |
+| ch02_4 | [ch02_4_user_defined_literals.cpp](ch02/ch02_4/ch02_4_user_defined_literals/ch02_4_user_defined_literals.cpp) | 사용자 정의 리터럴로 거리 단위 변환하기 |
+
 
 ---
 
